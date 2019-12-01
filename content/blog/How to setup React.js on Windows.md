@@ -3,7 +3,7 @@ title: "How to setup React.js on Windows"
 date: 2019-07-15T12:27:38+06:00
 description : "This is meta description"
 type: post
-image: images/blog/blog-3.jpg
+image: images/blog/blog3.jpg
 author: Archer Zou
 tags: ["react", "tech"]
 ---

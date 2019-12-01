@@ -48,7 +48,7 @@ publishDir = "kevinapple.github.io"
         heading = "HI, MY NAME IS ARCHER ZOU & I AM A"
         description = "I HAVE BEEN WORKING AS A SENIOR SOFTWARE DEVELOPER IN SUZHOU FOR MANY YEARS,  AND I AM OPEN FOR ANY OPPORTUNITIES IN THIS FIELD OR SOFTWARE ENGINEERING, SO CONTACT WITH ME."
         image  = true
-        imageSrc  = "images/kevin.jpg"
+        imageSrc  = "images/person.jpg"
         [[params.banner.flipText]]
             title   = "DESIGNER"
         [[params.banner.flipText]]
@@ -60,8 +60,8 @@ publishDir = "kevinapple.github.io"
     [params.about]
         enable  = true
         title   = "ABOUT ME"
-        content = "I am a self-employed software and web engineer dedicated to learning and teaching JavaScript for client-server architectures. I try my best to have a positive impact on the people around me. Even though I do a lot of programming in my professional and spare time, there are other things I treasure too.  I’m always struggling to memorize my learnings. I hope that I can write down my notes of books I enjoyed to read. I am happy to welcome you on my website. "
-        image   = "images/about/robot.jpg"
+        content = "I am a self-learning software and web engineer dedicated to learning and teaching JavaScript for client-server architectures. I try my best to have a positive impact on the people around me. Even though I do a lot of programming in my professional and spare time, there are other things I treasure too.  I’m always struggling to memorize my learnings. I hope that I can write down my notes of books I enjoyed to read. I am happy to welcome you on my website. "
+        image   = "images/about/robot1.jpg"
 
     # Call to Action
     [params.cta]

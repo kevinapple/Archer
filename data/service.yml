@@ -1,7 +1,7 @@
 enable  : true
 title   : WHAT I LOVE TO DO
 subtitle: I’ve produced top quality applications with a lot of clients for more than 10 years.
-image   : images/hihi.jpg
+image   : images/metro.jpg
 serviceItem :
   - icon  : ion-ios-paper-outline
     title : WEB DEVELOPMENT
