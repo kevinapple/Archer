@@ -1,0 +1,14 @@
+enable  : true
+title   : My favourite websites
+subtitle: Some websites that I like most.
+clientsLogo:
+  - image : images/clients/tensorflow.png
+  - image : images/clients/redux.png
+  - image : images/clients/graphql.png
+  - image : images/clients/heroku.png
+  - image : images/clients/webpack.png
+  - image : images/clients/tensorflow.png
+  - image : images/clients/redux.png
+  - image : images/clients/graphql.png
+  - image : images/clients/heroku.png
+  - image : images/clients/webpack.png

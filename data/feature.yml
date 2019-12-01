@@ -1,0 +1,34 @@
+enable  : true
+title   : WHAT I OFFER
+subtitle: >
+  WHY YOU MIGHT WANT TO HIRE ME.
+item    :
+  - icon  : ion-ios-flask-outline
+    title : Workshops
+    description : >
+      Help your team on-site/remote to get them up to speed with the latest web technologies for client-server applications in JavaScript.
+
+  - icon  : ion-ios-lightbulb-outline
+    title : Code Audit
+    description : >
+      Conducting code reviews for your JavaScript application together with your team or a single person which usually last 2-3 days.
+
+  - icon  : ion-ios-americanfootball-outline
+    title : MVP
+    description : >
+      Bringing your idea to code from zero to one as a minimal viable product (MVP) and beyond within a well-architected application.
+
+  - icon  : ion-ios-keypad-outline
+    title : Complex Problems
+    description : >
+      Solving complex problems in JavaScript code which you want to have eliminated in your application's code base but no one dares to fix.
+
+  - icon  : ion-ios-barcode-outline
+    title : Writing Code
+    description : >
+      Coding along with your team on a large scale application to make your customers happy with new features and performance improvements.
+  
+  - icon  : ion-ios-lightbulb-outline
+    title : Technical Writing
+    description : >
+      Writing tutorials about your technical product, open source work, or API (all related to JavaScript) to get more publicity for it.

@@ -1,0 +1,24 @@
+enable  : true
+title   : WHAT I LOVE TO DO
+subtitle: I’ve produced top quality applications with a lot of clients for more than 10 years.
+image   : images/hihi.jpg
+serviceItem :
+  - icon  : ion-ios-paper-outline
+    title : WEB DEVELOPMENT
+    description: >
+      Let's makes complex interfaces easy with small, reusable components, consistent behavior, and rich interactions.
+
+  - icon  : ion-ios-paper-outline
+    title : DESIGN
+    description: >
+      From strategy to implementation, I collaborate with you to design experiences that build successful products and businesses.
+
+  - icon  : ion-ios-pint-outline
+    title : LEVEL UP
+    description: >
+      I will help individuals and teams mature processes and nurture a healthy and productive culture.
+
+  - icon  : ion-ios-paper-outline
+    title : RESEARCH
+    description: >
+      I use the knowledge and understanding that I gain conducting research to fuel practical solutions. 
